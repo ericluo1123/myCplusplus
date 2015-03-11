@@ -10,7 +10,7 @@ void Tmax(int num);
 
 void Tmax(int num){
 	num+=1;
-	}
+	} 
 
 void main(){
 	
