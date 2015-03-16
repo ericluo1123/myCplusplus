@@ -1,79 +1,84 @@
 #pragma once
 class CaseBox
-	{
-	private:
-		double length;
-		double width;
-		double high;
+{
+private:
+	double length;
+	double width;
+	double high;
 
-	public:
+public:
 
-		/**
-		*	static member
-		*	only onec declared 
-		*/
-		static int obj_count;
+	/**
+	*	static member
+	*	only onec declared 
+	*/
+	static int obj_count;
 
-		/**
-		*	Constructor
-		*/
-		CaseBox(void);
+	/**
+	*	Constructor
+	*/
+	CaseBox(void);
 
-		/**
-		*	Constructor (length,width,high)
-		*/
-		CaseBox(double length,double width,double high);
+	/**
+	*	Constructor (length,width,high)
+	*/
+	CaseBox(double length,double width,double high);
 
-		/**
-		*	Destructor
-		*/
-		~CaseBox(void);
+	/**
+	*	Destructor
+	*/
+	~CaseBox(void);
 
-		/**
-		*	setLength
-		*/
-		void setLength(double length);
+	/**
+	*	setLength
+	*/
+	void setLength(double length);
 
-		/**
-		*	setWidth
-		*/
-		void setWidth(double width);
+	/**
+	*	setWidth
+	*/
+	void setWidth(double width);
 
-		/**
-		*	setHigh
-		*/
-		void setHigh(double high);
+	/**
+	*	setHigh
+	*/
+	void setHigh(double high);
 
-		/**
-		*	getLength
-		*/
-		double getLength();
+	/**
+	*	getLength
+	*/
+	double getLength();
 
-		/**
-		*	getWidth
-		*/
-		double getWidth();
+	/**
+	*	getWidth
+	*/
+	double getWidth();
 
-		/**
-		*	getHigh
-		*/
-		double getHigh();
+	/**
+	*	getHigh
+	*/
+	double getHigh();
 
-		/**
-		*	getRectangleArea
-		*/
-		double getRectangleArea();
+	/**
+	*	getRectangleArea
+	*/
+	double getRectangleArea();
 
-		/**
-		*	getVolume
-		*/
-		double getVolume();
+	/**
+	*	getVolume
+	*/
+	double getVolume();
 
-		/**
-		*	objectCompare 
-		*/
-		int objectCompare(CaseBox* casebox);
+	/**
+	*	objectCompare 
+	*/
+	int objectCompare(CaseBox* casebox);
 
-		virtual void test(void);
+
+	/**
+	*	operator '>'
+	*/
+
+	bool operator > (CaseBox& caseBox);
 };
 

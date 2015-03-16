@@ -92,11 +92,13 @@ double CaseBox::getVolume(){
 *	objectCompare 
 */
 int CaseBox::objectCompare(CaseBox* casebox){
-	
+
 	return this->getRectangleArea() > casebox->getRectangleArea();
 }
 
-
-void CaseBox::test(void)
-{
+bool CaseBox::operator > (CaseBox& caseBox){
+	return this->getVolume() > caseBox.getVolume();
 }
+
+
+
