@@ -76,16 +76,16 @@ double CaseBox::getHigh(){
 */
 double CaseBox::getRectangleArea(){
 
-	return 2.0*((this->length*this->width)+(this->high*this->length)+(this->width*this->high));
+	return 2.0*((this->length * this->width) + (this->high * this->length) + (this->width * this->high));
 
 }
 
 /**
 *	getVolume
 */
-double CaseBox::getVolume(){
+double CaseBox::getVolume() const{
 
-	return this->length*this->high*this->width;
+	return this->length * this->high * this->width;
 }
 
 /**
@@ -96,9 +96,13 @@ int CaseBox::objectCompare(CaseBox* casebox){
 	return this->getRectangleArea() > casebox->getRectangleArea();
 }
 
-bool CaseBox::operator > (CaseBox& caseBox){
+bool CaseBox::operator > (const CaseBox& caseBox){
 	return this->getVolume() > caseBox.getVolume();
 }
+
+	bool CaseBox::operator > (const double& value){
+		return this->getVolume() > value;
+	}
 
 
 

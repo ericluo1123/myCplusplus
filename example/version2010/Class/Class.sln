@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_useCaseBox", "cpp_Creat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_useDestructor", "cpp_useDestructor\cpp_useDestructor.vcxproj", "{16C88C2B-1381-492C-AA73-D1F5B8E3450A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_ClassTemplate", "cpp_ClassTemplate\cpp_ClassTemplate.vcxproj", "{26B0EA95-8493-472F-AEC4-F8B2F9E6AF14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{16C88C2B-1381-492C-AA73-D1F5B8E3450A}.Debug|Win32.Build.0 = Debug|Win32
 		{16C88C2B-1381-492C-AA73-D1F5B8E3450A}.Release|Win32.ActiveCfg = Release|Win32
 		{16C88C2B-1381-492C-AA73-D1F5B8E3450A}.Release|Win32.Build.0 = Release|Win32
+		{26B0EA95-8493-472F-AEC4-F8B2F9E6AF14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26B0EA95-8493-472F-AEC4-F8B2F9E6AF14}.Debug|Win32.Build.0 = Debug|Win32
+		{26B0EA95-8493-472F-AEC4-F8B2F9E6AF14}.Release|Win32.ActiveCfg = Release|Win32
+		{26B0EA95-8493-472F-AEC4-F8B2F9E6AF14}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -67,7 +67,7 @@ public:
 	/**
 	*	getVolume
 	*/
-	double getVolume();
+	double getVolume() const;
 
 	/**
 	*	objectCompare 
@@ -79,6 +79,10 @@ public:
 	*	operator '>'
 	*/
 
-	bool operator > (CaseBox& caseBox);
+	bool operator > (const CaseBox& caseBox);
+
+	bool operator > (const double& value);
+
+
 };
 
