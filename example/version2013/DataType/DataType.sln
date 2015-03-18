@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_Sizeof", "cpp_Sizeof\cpp_Sizeof.vcxproj", "{2C84D98D-2638-4DE5-A3D1-FC8EF9137A9E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variable", "Variable\Variable.vcxproj", "{30A0510A-4844-43B0-A9B6-E0D204C6E510}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Terminal_Input_Output", "Terminal_Input_Output\Terminal_Input_Output.vcxproj", "{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +19,14 @@ Global
 		{2C84D98D-2638-4DE5-A3D1-FC8EF9137A9E}.Debug|Win32.Build.0 = Debug|Win32
 		{2C84D98D-2638-4DE5-A3D1-FC8EF9137A9E}.Release|Win32.ActiveCfg = Release|Win32
 		{2C84D98D-2638-4DE5-A3D1-FC8EF9137A9E}.Release|Win32.Build.0 = Release|Win32
+		{30A0510A-4844-43B0-A9B6-E0D204C6E510}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30A0510A-4844-43B0-A9B6-E0D204C6E510}.Debug|Win32.Build.0 = Debug|Win32
+		{30A0510A-4844-43B0-A9B6-E0D204C6E510}.Release|Win32.ActiveCfg = Release|Win32
+		{30A0510A-4844-43B0-A9B6-E0D204C6E510}.Release|Win32.Build.0 = Release|Win32
+		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Debug|Win32.Build.0 = Debug|Win32
+		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Release|Win32.ActiveCfg = Release|Win32
+		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+Terminal Input & Output 
+Hello World
+
+請輸入數字 : 輸入的數字是:-858993460
+
+請按任意鍵繼續 . . . 
+Terminal Input & Output 
+Hello World
+
+請輸入數字 : 輸入的數字是:123
+
+請按任意鍵繼續 . . . 

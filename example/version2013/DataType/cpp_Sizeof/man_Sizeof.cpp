@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void main(){
+int main(int argc, char* argv[]){
 	
 
     cout << "Data Type!!" << endl;
@@ -32,4 +32,5 @@ void main(){
 	//unsigned datatype
 
 	system("pause");
+	return 0;
 }
