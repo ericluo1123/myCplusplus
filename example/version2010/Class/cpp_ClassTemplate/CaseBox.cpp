@@ -100,9 +100,14 @@ bool CaseBox::operator > (const CaseBox& caseBox){
 	return this->getVolume() > caseBox.getVolume();
 }
 
-	bool CaseBox::operator > (const double& value){
-		return this->getVolume() > value;
-	}
+bool CaseBox::operator > (const double& value){
+	return this->getVolume() > value;
+}
 
+CaseBox CaseBox::operator+(CaseBox& caseBox){
+
+	return CaseBox(this->length > caseBox.length?this->length:caseBox.length,this->high > caseBox.high?this->high:caseBox.high,
+					this->width>caseBox.width?this->width:caseBox.width);
+}
 
 

@@ -83,5 +83,7 @@ public:
 
 	bool operator > (const double& value);
 
+	CaseBox operator+(CaseBox& caseBox);
+
 };
 

@@ -13,29 +13,23 @@ bool operator > (const double& value,const CaseBox& caseBox){
 	return value > caseBox.getVolume();
 }
 
+
 int main(int argc,char* argv[]){
 
 	//title
 	cout << "Title : Class Template " << endl << endl;
 
-	//rectangle area
-	CaseBox cb1(5,5,5);
-	cout << "cb1 rectangle area = " << cb1.getRectangleArea() << endl;
+	CaseBox boxes[]={CaseBox(5.0,5.0,5.0),CaseBox(6.0,6.0,6.0),CaseBox(7.0,7.0,7.0)};
 
-	CaseBox cb2(6,6,6);
-	cout << "cb2 rectangle area = " << cb2.getRectangleArea() << endl;
-
-	CaseBox cb3(7,7,7);
-	cout << "cb3 rectangle area = " << cb3.getRectangleArea() << endl;
 
 
 
 
 	//destructor
-	cb1.~CaseBox();
-	cb2.~CaseBox();
-	cb3.~CaseBox();
-
+	cout << boxes[0].getVolume() << endl;
+	cout << boxes[1].getVolume() << endl;
+	cout << boxes[2].getVolume() << endl;
+	
 	system("pause");
 	return 0;
 }
