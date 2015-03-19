@@ -1,4 +1,4 @@
-﻿已經開始建置於 2015/3/18 下午 04:45:42。
+﻿已經開始建置於 2015/3/19 上午 08:17:28。
      1>節點 2 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Terminal_Input_Output\Terminal_Input_Output.vcxproj"。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -10,4 +10,4 @@
 
 建置成功。
 
-經過時間 00:00:00.91
+經過時間 00:00:05.42

@@ -9,6 +9,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variable", "Variable\Variab
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Terminal_Input_Output", "Terminal_Input_Output\Terminal_Input_Output.vcxproj", "{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic", "Arithmetic\Arithmetic.vcxproj", "{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operator", "operator\operator.vcxproj", "{62B7196A-16F8-45C7-9E3D-D82AFA334E03}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Increment_Decrement", "Increment_Decrement\Increment_Decrement.vcxproj", "{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logical operator", "Logical operator\Logical operator.vcxproj", "{42742D8A-3A12-4E80-93E3-95CB35420891}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +35,22 @@ Global
 		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Debug|Win32.Build.0 = Debug|Win32
 		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Release|Win32.ActiveCfg = Release|Win32
 		{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}.Release|Win32.Build.0 = Release|Win32
+		{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}.Debug|Win32.Build.0 = Debug|Win32
+		{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}.Release|Win32.ActiveCfg = Release|Win32
+		{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}.Release|Win32.Build.0 = Release|Win32
+		{62B7196A-16F8-45C7-9E3D-D82AFA334E03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62B7196A-16F8-45C7-9E3D-D82AFA334E03}.Debug|Win32.Build.0 = Debug|Win32
+		{62B7196A-16F8-45C7-9E3D-D82AFA334E03}.Release|Win32.ActiveCfg = Release|Win32
+		{62B7196A-16F8-45C7-9E3D-D82AFA334E03}.Release|Win32.Build.0 = Release|Win32
+		{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}.Debug|Win32.Build.0 = Debug|Win32
+		{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}.Release|Win32.ActiveCfg = Release|Win32
+		{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}.Release|Win32.Build.0 = Release|Win32
+		{42742D8A-3A12-4E80-93E3-95CB35420891}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42742D8A-3A12-4E80-93E3-95CB35420891}.Debug|Win32.Build.0 = Debug|Win32
+		{42742D8A-3A12-4E80-93E3-95CB35420891}.Release|Win32.ActiveCfg = Release|Win32
+		{42742D8A-3A12-4E80-93E3-95CB35420891}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
