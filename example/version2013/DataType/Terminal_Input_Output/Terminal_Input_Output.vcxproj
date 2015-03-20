@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C3FD489C-B5EE-45DF-9CD0-2AA4A48B483A}</ProjectGuid>
     <RootNamespace>Terminal_Input_Output</RootNamespace>
+    <ProjectName>1-5.Terminal Input Output</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

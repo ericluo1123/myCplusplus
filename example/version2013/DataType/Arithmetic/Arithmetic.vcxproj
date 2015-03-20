@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F4F8BAF0-6A5B-41BF-9D72-7E921B3678B4}</ProjectGuid>
     <RootNamespace>Arithmetic</RootNamespace>
+    <ProjectName>2-1-1.Arithmetic Operator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{42742D8A-3A12-4E80-93E3-95CB35420891}</ProjectGuid>
     <RootNamespace>Logicaloperator</RootNamespace>
-    <ProjectName>Bitwise operator</ProjectName>
+    <ProjectName>2-3-2.Bitwise operator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

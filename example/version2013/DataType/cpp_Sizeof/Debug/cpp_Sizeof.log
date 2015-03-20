@@ -1,13 +1,15 @@
-﻿已經開始建置於 2015/3/18 下午 03:05:43。
-     1>節點 3 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\cpp_Sizeof\cpp_Sizeof.vcxproj"。
+﻿已經開始建置於 2015/3/20 上午 11:39:33。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\cpp_Sizeof\cpp_Sizeof.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (2-Data Type.vcxproj, 2.Data Type.vcxproj, cpp_Sizeof.vcxproj, Sizeof.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt man_Sizeof.cpp
-         man_Sizeof.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt man.cpp
+         正在略過... (未偵測到相關變更)
+         man.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\cpp_Sizeof.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\cpp_Sizeof.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\cpp_Sizeof.lib" /MACHINE:X86 Debug\man_Sizeof.obj
-         cpp_Sizeof.vcxproj -> C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\cpp_Sizeof.exe
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\1-2.Data Type.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\1-2.Data Type.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\1-2.Data Type.lib" /MACHINE:X86 Debug\man.obj
+         cpp_Sizeof.vcxproj -> C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\1-2.Data Type.exe
      1>專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\cpp_Sizeof\cpp_Sizeof.vcxproj" (Build 目標) 建置完成。
 
 建置成功。
 
-經過時間 00:00:02.70
+經過時間 00:00:02.78

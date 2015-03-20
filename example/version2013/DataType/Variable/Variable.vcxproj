@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{30A0510A-4844-43B0-A9B6-E0D204C6E510}</ProjectGuid>
     <RootNamespace>Variable</RootNamespace>
+    <ProjectName>1-4.Variable</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

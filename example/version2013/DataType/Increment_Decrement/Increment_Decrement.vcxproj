@@ -13,6 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{64BD5F19-0C13-4DE3-8750-1CD7C23B7380}</ProjectGuid>
     <RootNamespace>Increment_Decrement</RootNamespace>
+    <ProjectName>2-4-1.Increment Operator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
