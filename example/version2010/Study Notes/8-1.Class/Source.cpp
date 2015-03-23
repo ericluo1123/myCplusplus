@@ -5,10 +5,14 @@
 
 using namespace std;
 
-int main(int argc ,char* argv[]){
+int main(int argc, char* argv[]){
 
 	cout << "*****Clas*****" << endl;
 	cout << endl;
+	object_Ball oBall;
+
+	cout << oBall.volumn() << endl;
+
 
 
 	cout << endl;

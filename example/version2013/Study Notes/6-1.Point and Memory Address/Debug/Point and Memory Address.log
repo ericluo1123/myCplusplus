@@ -1,14 +1,11 @@
-﻿已經開始建置於 2015/3/21 下午 02:27:52。
-     1>節點 2 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Point and Memory Address\Point and Memory Address.vcxproj"。
+﻿已經開始建置於 2015/3/23 下午 01:19:56。
+     1>節點 4 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\Study Notes\6-1.Point and Memory Address\Point and Memory Address.vcxproj"。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
          Source.cpp
-     1>c:\users\taianluo\documents\github\mycplusplus\example\version2013\datatype\point and memory address\source.cpp(12): warning C4101: 'p' : 未參考的區域變數
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\6-1.Point and Memory Address.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\6-1.Point and Memory Address.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\6-1.Point and Memory Address.lib" /MACHINE:X86 Debug\Source.obj
-         Point and Memory Address.vcxproj -> C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Debug\6-1.Point and Memory Address.exe
-     1>專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\DataType\Point and Memory Address\Point and Memory Address.vcxproj" (Build 目標) 建置完成。
+     1>c1xx : fatal error C1083: 無法開啟來源檔案: 'Source.cpp': No such file or directory
+     1>專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\Study Notes\6-1.Point and Memory Address\Point and Memory Address.vcxproj" (Build 目標) 建置完成 -- 失敗。
 
-建置成功。
+建置失敗。
 
-經過時間 00:00:00.92
+經過時間 00:00:01.03
