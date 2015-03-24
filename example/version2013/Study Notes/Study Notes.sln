@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-1.Point and Memory Addres
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6-1.String Char style", "6-1.String Char style\6-1.String C style.vcxproj", "{A601197B-429C-4B98-97D4-9F4365465D3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6-2.String Type", "6-2.String Type\String Type.vcxproj", "{C24D1142-8EA6-41F0-9586-1498867B0DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -183,6 +185,10 @@ Global
 		{A601197B-429C-4B98-97D4-9F4365465D3E}.Debug|Win32.Build.0 = Debug|Win32
 		{A601197B-429C-4B98-97D4-9F4365465D3E}.Release|Win32.ActiveCfg = Release|Win32
 		{A601197B-429C-4B98-97D4-9F4365465D3E}.Release|Win32.Build.0 = Release|Win32
+		{C24D1142-8EA6-41F0-9586-1498867B0DC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C24D1142-8EA6-41F0-9586-1498867B0DC2}.Debug|Win32.Build.0 = Debug|Win32
+		{C24D1142-8EA6-41F0-9586-1498867B0DC2}.Release|Win32.ActiveCfg = Release|Win32
+		{C24D1142-8EA6-41F0-9586-1498867B0DC2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

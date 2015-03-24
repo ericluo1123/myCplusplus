@@ -65,7 +65,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\version2010\Study Notes\8-1.Class\object_Ball.cpp" />
     <ClCompile Include="..\..\..\version2010\Study Notes\8-1.Class\Source.cpp" />
   </ItemGroup>
   <ItemGroup>
