@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8-1.Class", "8-1.Class\8-1.Class.vcxproj", "{325FEEEE-875A-4A18-A3DA-2C43C0DDEE29}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-1.Class", "10-1.Class\8-1.Class.vcxproj", "{325FEEEE-875A-4A18-A3DA-2C43C0DDEE29}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-1.Point And Momery Address", "7-1.Point And Momery Address\7-1.Point And Momery Address.vcxproj", "{2AB0E1EE-0BE0-4092-92DB-F399AA8D1348}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-1.Hello World", "1-1.Hello World\1-1.Hello World.vcxproj", "{B8AEC839-D1C2-49AB-B8B9-1DF1F1D4F8D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{325FEEEE-875A-4A18-A3DA-2C43C0DDEE29}.Debug|Win32.Build.0 = Debug|Win32
 		{325FEEEE-875A-4A18-A3DA-2C43C0DDEE29}.Release|Win32.ActiveCfg = Release|Win32
 		{325FEEEE-875A-4A18-A3DA-2C43C0DDEE29}.Release|Win32.Build.0 = Release|Win32
+		{2AB0E1EE-0BE0-4092-92DB-F399AA8D1348}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AB0E1EE-0BE0-4092-92DB-F399AA8D1348}.Debug|Win32.Build.0 = Debug|Win32
+		{2AB0E1EE-0BE0-4092-92DB-F399AA8D1348}.Release|Win32.ActiveCfg = Release|Win32
+		{2AB0E1EE-0BE0-4092-92DB-F399AA8D1348}.Release|Win32.Build.0 = Release|Win32
+		{B8AEC839-D1C2-49AB-B8B9-1DF1F1D4F8D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8AEC839-D1C2-49AB-B8B9-1DF1F1D4F8D7}.Debug|Win32.Build.0 = Debug|Win32
+		{B8AEC839-D1C2-49AB-B8B9-1DF1F1D4F8D7}.Release|Win32.ActiveCfg = Release|Win32
+		{B8AEC839-D1C2-49AB-B8B9-1DF1F1D4F8D7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+﻿Build started 2015/3/24 下午 06:54:19.
+     1>Project "C:\Users\Eric\Documents\GitHub\myCplusplus\example\version2010\Study Notes\1-1.Hello World\1-1.Hello World.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\1-1.Hello World.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\1-1.Hello World.unsuccessfulbuild".
+         Touching "Debug\1-1.Hello World.lastbuildstate".
+     1>Done Building Project "C:\Users\Eric\Documents\GitHub\myCplusplus\example\version2010\Study Notes\1-1.Hello World\1-1.Hello World.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
