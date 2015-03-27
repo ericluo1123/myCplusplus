@@ -15,11 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\version2010\Study Notes\8-1.Class\Source.cpp">
-      <Filter>原始程式檔</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\..\..\version2010\Study Notes\8-1.Class\object_Ball.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
