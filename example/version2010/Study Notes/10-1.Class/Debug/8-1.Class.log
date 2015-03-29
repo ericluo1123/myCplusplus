@@ -1,5 +1,5 @@
-﻿Build started 2015/3/24 下午 07:01:49.
-     1>Project "C:\Users\Eric\Documents\GitHub\myCplusplus\example\version2010\Study Notes\10-1.Class\8-1.Class.vcxproj" on node 3 (build target(s)).
+﻿Build started 2015/3/30 上午 12:02:44.
+     1>Project "C:\Users\Eric\Documents\GitHub\myCplusplus\example\version2010\Study Notes\10-1.Class\8-1.Class.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\10-1.Class.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -14,4 +14,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.07
+Time Elapsed 00:00:00.06
