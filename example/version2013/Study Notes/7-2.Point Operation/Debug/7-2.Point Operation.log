@@ -1,5 +1,5 @@
-﻿已經開始建置於 2015/3/27 下午 01:14:23。
-     1>節點 3 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\Study Notes\7-2.Point Operation\7-2.Point Operation.vcxproj"。
+﻿已經開始建置於 2015/3/30 上午 08:18:37。
+     1>節點 4 (Build 目標) 上的專案 "C:\Users\taianluo\Documents\GitHub\myCplusplus\example\version2013\Study Notes\7-2.Point Operation\7-2.Point Operation.vcxproj"。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\Study Notes\7-2.Point Operation\Source.cpp"
          Source.cpp
@@ -10,4 +10,4 @@
 
 建置成功。
 
-經過時間 00:00:01.23
+經過時間 00:00:04.54
